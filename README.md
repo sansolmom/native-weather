@@ -1,2 +1,3 @@
-# native-weather
+# native weather
+
 react-native weather app
